@@ -1,0 +1,6 @@
+User-agent: * 
+Allow: /
+
+Allow: Sitemap.xml
+
+Sitemap: https://https://uddeshfilms.netlify.app/
